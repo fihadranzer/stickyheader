@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+
+#header {
+  text-align: center;
+}
+#header img {
+  display: inline-block;
+  height: 150px;
+  width: auto;
+}
+
+#navigation-bar {
+  text-align: center;
+  background-color: darkolivegreen;
+  color: #fff;
+  font-size: 16px;
+}
+
+#navigation-bar li {
+  display: inline-block;
+  padding: 20px 20px;
+  font-weight: 600;
+ 
+}
+
+#container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+#container img {
+  width: 100%;
+}
+
+
+.text {
+  text-align: center;
+}
+
+
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
